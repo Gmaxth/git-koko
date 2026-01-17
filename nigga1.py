@@ -1,4 +1,2 @@
-a = 1
-b = 2
-
-print(a+b)
+print("Woramate Thawongsa")
+print("68040249101")
